@@ -10,6 +10,7 @@ The Pitch Perfect app is Udacity iOS Nanodegree project and allows users to reco
 
 - Record Sounds View: Allows users to record a sound.
 - Play Sounds View: Allows users to play the recorded sound back with effects.
+
 The code can be checked on <a href="https://github.com/KulakovaE/PitchPerfect" class="external" target="#">Github.</a>
 
 <h3>Frameworks</h3>
